@@ -1,5 +1,6 @@
 /*
-  Written by Elad Nachmias (theman@elad.im).
+  Written by Elad Nachmias (theman@elad.im); MIT License
+  
   require() this file in your application load script. it will profile your application according to
   the settings below. It will take a heap snapshot before and after every CPU usage profile in order
   to avoid the heap dump CPU usage from polluting the CPU profile of the application. 
